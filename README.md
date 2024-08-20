@@ -1,6 +1,6 @@
 # Rainbow2024
 Learn to use repository
-This is a poem about Rainbows and Monkies
+This is a poem about Rainbows and Monkies and Lebron
 Red
 Orange
 Yellow
@@ -9,3 +9,5 @@ Blue
 Violet
 Indigo
 Monkey
+Lebron
+The GOAT
